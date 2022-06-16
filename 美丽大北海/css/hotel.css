@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+.bd{
+	width: 1200px;
+}
+.header{
+	width: 1200px;
+	height: 70px;	
+	margin-bottom: 10px;
+}
+.header1{ 
+	background: url("../images/shouye/logo.png") no-repeat;
+	width: 105px;
+	height: 70px;
+	float: left;
+	margin-left: 100px;
+}
+.header2{
+	background: url("../images/shouye/zi.png") no-repeat;
+	width: 150px;
+	height: 60px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.header3 a{
+	text-decoration: none;
+	color: black;
+}
+.header4{
+	margin-left: 1000px;
+}
+.header4 a{
+	font-size: 12px;
+}
+.header4 button{
+	background: white;
+	border: none;
+}
+.header5{
+	margin-top: 30px;
+}
+.header5 a{
+	margin-left: 60px;
+}
+.header a:hover{
+	color: #e5e5e5;
+}
+.banner01 img:hover{
+	transform: scale(1.2); 
+}
+.banner01{
+	margin-top: 20px;
+	
+}
+.banner02{
+	width: 270px;
+	height: 380px;
+	text-align: center;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid #e5e5e5;
+	padding: 0px 5px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.banner03{
+	text-align: center;
+}
+.banner04{
+	margin-top: 5px;
+	color:black;
+}
+.banner05{
+	font-size: 12px;
+	color:#C8B7B7;
+}
+.banner06{
+	margin-top: 5px;
+	color: #ffb200;
+}
+.banner07{
+	margin-top: 5px;
+	font-size: 14px;
+	color:#AA9F9F;
+}
+.banner08{
+	margin-top: 5px;
+	font-size: 12px;
+	color:black;
+}
+.banner03 a:hover{
+	color:#000000;
+}
+.xi{
+	width: 1160px;
+	
+	border-bottom: 1px solid black;
+}
+.yuan{
+	
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background: black;
+	text-align: center;
+	line-height: 100px;
+	clear: both;	
+}
+.yuan p{
+	color: white;
+	font-size: 30px;
+	font-family:  "alike-angular";
+}
+.foot{
+	font-size: 12px;
+	text-align: center;
+	margin-top: 30px;
+	width: 1180px;
+	height: 50px;
+	background: black;
+	color: white;
+	padding: 10px 0;
+	clear: both;
+}
+.one1 a{
+	text-decoration: none;
+}
+.one1 a:link{
+	color: #000000;
+}
+.one1 a:hover{
+	color: blue;
+}
+.one1{
+			width: 50px;
+			height: 50px;
+			border-radius: 50%;
+			border: 2px #6E6161 solid;
+			text-align: center;
+			position: fixed;
+			right: 50px;
+			bottom: 50px;
+		}
+.one1 p{margin-top: 5px;color: #000000;}

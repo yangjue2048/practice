@@ -1,0 +1,218 @@
+@charset "utf-8";
+/* CSS Document */
+.bd{
+	width: 1344px;
+	background: #ffffff;
+}
+.head{
+	height: 36px;
+	background: #055c92;
+}
+.head p{
+	font-size: 14px;
+	color: white;
+	margin-top: 8px;
+	float: left;
+}
+.head1{
+	margin-left: 190px;
+}
+.head2{
+	margin-left: 560px;
+}
+.lo{
+	margin-top: 20px;
+	height: 70px;
+}
+.logo{
+	background: url("../images/logo.png") no-repeat;
+	width: 166PX;
+	height: 53PX;
+	margin-left: 190px;
+	float: left;
+}
+.you{
+	float: left;
+	margin-left: 30px;
+}
+.you a{
+	margin-left: 30px;
+	text-decoration: none;
+}
+a:link{
+	color: black;
+}
+a:hover{
+	color: #e27f52;
+}
+.two{
+	height: 400px;
+	
+}
+ul{
+	clear: left;
+	margin-left: 150px;
+	width: 235px;
+	height: 400px;
+	float: left;
+}
+li{
+	list-style: none;
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-size: 14px;
+	line-height: 40px;
+	padding-left: 35px;
+}
+#list_cur{
+	width:120px; 
+	height: 400px;
+	text-align: center;
+	display:none; 
+	position:absolute; 
+	left:410px; 
+	top:150px; 
+	background-color:#f8f8f7; 
+	border:1px solid #EEE;
+}
+.xt01,.xt02,.xt03,.xt04{
+	width: 60px;
+	height: 60px;
+	margin-left: 30px;
+}
+.xt01{
+	background: url( "../images/icon01.png") no-repeat;	
+	margin-top: 5px;
+}
+.xt02{
+	background: url( "../images/icon02.png") no-repeat;
+}
+.xt03{
+	background: url( "../images/icon03.png") no-repeat;
+}
+.xt04{
+	background: url( "../images/icon04.png") no-repeat;
+}
+.xt05{
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.qian{
+	background: #0572b6;
+}
+.shen{
+	background: #055c92;
+}
+span{
+	width: 10px;
+	height: 10px;
+	margin-right: 35px;
+}
+.da{
+	margin-top: 17px;
+	background: url("../images/pic01.png") no-repeat;
+	width: 725px;
+	height: 400px;
+	float: left;
+}
+.si{
+	width: 960px;
+	margin-left: 190px;
+	height: 150px;
+	clear: both;
+}
+.one,.one1,.one2,.one3{
+	width: 232px;
+	height: 130px;
+	float: left;
+}
+.one{
+	background: url( "../images/tu01.jpg") no-repeat;
+	
+}
+.one1{
+	background: url( "../images/tu02.jpg") no-repeat;
+	margin-left: 10px;
+}
+.one2{
+	background: url( "../images/tu03.jpg") no-repeat;
+	margin-left: 10px;
+}
+.one3{
+	background: url( "../images/tu04.jpg") no-repeat;
+	margin-left: 10px;
+}
+.si1{
+	width: 960px;
+	height: 280px;
+	margin-left: 190px;
+}
+.two,.two1,.two2,.two3{
+	width: 230px;
+	height: 280px;
+	border: 1px solid #cccccc;
+	float: left;
+	text-align: center;
+}
+.two1,.two2,.two3{
+	margin-left: 10px;
+}
+.three,.three1,.three2,.three3{
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.three{
+	background: url("../images/tu05.jpg") no-repeat;
+	width: 124px;
+	height: 112px;
+}
+.three1{
+	background: url("../images/tu06.jpg") no-repeat;
+	width: 130px;
+	height: 122px;
+}
+.three2{
+	background: url("../images/tu07.jpg") no-repeat;
+	width: 153px;
+	height: 119px;
+}
+.three3{
+	background: url("../images/tu08.jpg") no-repeat;
+	width: 145px;
+	height: 123px;
+}
+.si1 p{
+	font-size: 12px;
+	margin-top: 30px;
+}
+.red{
+	color: red;
+}
+.zi{
+	width: 960px;
+	height: 100px;
+	margin-left: 190px;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 40px;
+	
+}
+.di,.di1,.di2{
+	width: 96px;
+	height: 36px;
+	float: left;
+}
+.di{
+	background: url("../images/360.jpg") no-repeat;
+	margin-left: 320px;
+}
+.di1{
+	background: url("../images/chengxin.jpg") no-repeat;
+	margin-left: 30px;
+}
+.di2{
+	background: url("../images/safe.jpg") no-repeat;
+	margin-left: 30px;
+}

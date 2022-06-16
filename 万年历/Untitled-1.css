@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+.one00{
+	width: 400px;height: 400px;margin: 0 auto;padding: 10px;text-align: center;
+}
+.one01{
+	margin-top: -10px;
+}
+.one001{
+	border-bottom: 1px solid #55aaff;height: 35px;
+}
+table{
+	border-spacing: inherit;
+}
+td{
+	width: 55px;height: 53px;font-size: 14px;border-bottom: 1px solid #c8cacc;
+}
+.one02{
+	border-bottom: 1px solid #55aaff;
+}
+.one021{
+	height: 35px;
+}
+a:link,a:visited{
+	text-decoration: none;
+	color: black;
+}
+.bor td:hover{
+	border:5px solid #ffbb00;
+}
+.hui{
+	color: #bfbfc5;
+}
+.hui2{
+	color:#999999;
+}
+.bcg{
+	background:url("未标题-1.jpg") no-repeat;
+}
+.bcg1{
+	background:url("未标题-2.jpg") no-repeat;
+}
+.bcg2{
+	background:url("未标题-3.jpg") no-repeat;
+}
+.bcg3{
+	background:url("未标题-4.jpg") no-repeat;
+}
+.cu{
+	font-weight: bold;font-size: 16px;
+}
+.cu1{
+	color: #e02d2d;font-weight: bold;font-size: 16px;
+}
+.cu2{
+	color: #ffffff;font-weight: bold;font-size: 16px;
+}
+.red{
+	color: #e02d2d;
+}
+.ba{
+	background: #ffbb00;
+}
+.whi{
+	color:white;
+}
+.dx{
+	margin-left: 10px;
+	margin-right: 20px;
+}
+.bd{
+	border: 2px solid #57abff;
+	width: 540px;
+	height: 440px;
+	margin: 0 auto;
+}
+.rl,.rl1{
+	float: left;
+}
+.rl1{
+	text-align: center;
+    width: 140px;
+	height: 440px;
+	background: #57abff;
+}
+.box{
+	width: 80px;
+	height: 80px;
+	background: #ffbb00;
+	margin-left: 30px;
+	margin-top: -20px;
+}
+.rl1 p{color: white;font-size: 14px;}
+.box p{
+	color: white;
+	font-size: 40px;
+	line-height: 80px;
+}
+.line{
+	border: 1px solid #94c9ff;
+	width: 120px;
+	margin-left: 10px;
+}
+.yi,.ji{
+	float: left;
+	text-align: center;
+	margin-left:10px;
+	width: 60px;
+	margin-top: -20px;
+}
+.yi1,.ji1{
+	font-size: 25px;
+}

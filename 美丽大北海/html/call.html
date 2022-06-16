@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>美丽大北海</title>
+	<link href="../css/call.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+	<div class="bd">
+	
+		<!--header-->
+		<div class="header"  id="back">
+		<div class="header1"></div>
+		<div class="header2"></div>
+			<div class="header3">
+			<ul>
+				<p class="header4">
+				<script>
+						var username;
+						var pwd;
+						
+					function regist(){		
+		/* eslint-disable */
+	 var username=prompt("请输入用户名：");
+           var pwd=prompt("请输入密码：");
+           while(username==" "||pwd==" "){
+             alert("请输入用户名或密码：");
+               username=prompt("请输入用户名：");
+               pwd=prompt("请输入密码：");            
+           }
+           alert("注册成功！");
+	}
+	
+	var username1;
+	var pwd1;
+	function login(){
+	 var username1=prompt("请输入用户名：");
+           var pwd1=prompt("请输入密码：");
+           if(username==username1&&pwd==pwd1){
+                      alert("登录成功！");
+           }
+		else{
+           alert("用户名或密码错误！");
+               username1=prompt("请输入用户名：");
+               pwd1=prompt("请输入密码：");   
+		}
+	}
+					</script>
+					<from>
+					<button onClick="regist()">注册</button>
+						<a href="bingo.html">|</a>
+						<button onClick="login()">登录</button>
+					</from>
+				</p>
+				<p class="header5">
+					<a href="shouye.html">首页</a>
+					<a href="beihaigaikuang.html">北海概况</a>
+					<a href="food.html">美食</a>
+					<a href="hotel.html">酒店</a>
+					<a href="sence.html">景点</a>
+					<a href="call.html">联系我们</a>
+				</p>
+				</ul>
+			</div>
+		</div>
+		
+		<!--content-->
+		<div class="content">
+		<p class="content1">网站问题&举报投诉&建议意见</p>
+			<p class="content2">E-mail:sxy.2020@qq.com</p>
+			<p class="content2">QQ:1511338019</p>
+		<p class="content1">商务合作</p>
+			<p class="content2">E-mail:sxy.2020@qq.com</p>
+			<p class="content2">QQ:1511338019</p>
+		<p class="content1">广告投放合作</p>
+			<p class="content2">E-mail:sxy.2020@qq.com</p>
+			<p class="content2">QQ:1511338019</p>
+		</div>
+		
+		<!--foot-->
+		<div class="foot">
+		<p><br/>@2020-Sxy-保留所有权利 <br/>广西壮族自治区北海市桂林电子科技大学北海校区</p>
+		</div>
+	</div>
+</body>
+</html>

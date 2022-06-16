@@ -1,0 +1,470 @@
+@charset "utf-8";
+/* CSS Document */
+
+.zero {
+	width: 870px;
+	height: 3595px;
+	margin: 0 auto;
+}
+.top0 {
+	float: left;
+	font-size: 8px;
+}
+.top1 {
+	float: right;
+	font-size: 8px;
+}
+.top2, .nine111, .twelve6 {
+	clear: both;
+}
+.top22 {
+	width: 870px;
+	height: 70px;
+}
+.top3 {
+	width: 200px;
+	height: 50px;
+	background: url("../images/00.jpg");
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.top4 {
+	width: 410px;
+	height: 30px;
+	border-top: #000000 solid 1px;
+	border-left: #000000 solid 1px;
+	border-bottom: #000000 solid 1px;
+	position: relative;
+	top: -15px;
+}
+.top5 {
+	line-height: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-indent: 1em;
+}
+.top6 {
+	background: url("../images/01.jpg");
+	width: 27px;
+	height: 27px;
+	position: relative;
+	top: -5px;
+}
+.top7 {
+	width: 180px;
+	margin-left: 27px;
+}
+.top8 {
+	background: url("../images/02.jpg");
+	width: 60px;
+	height: 47px;
+	margin-left: 3px;
+	position: relative;
+	top: 3px;
+	left: 2px;
+}
+.top22, .top3, .top4, .top5, .top6, .top7, .top8, .top9, .two, .two1, .two2, .two3, .two4 {
+	display: inline-block;
+}
+.top10 {
+	color: #6d4e18;
+	font-weight: 800;
+	font-size: 18px;
+}
+.one {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #a0a0a1;
+	text-indent: 5em;
+	line-height: 50px;
+}
+.lo {
+	text-indent: 3em;
+}
+.lp {
+	margin-left: 30px;
+}
+.two1 {
+	width: 615px;
+	height: 330px;
+	background: url( "../images/001.jpg");
+	margin-right: 10px;
+}
+.two2 {
+	width: 240px;
+	height: 160px;
+	background: url("../images/002.jpg") no-repeat;
+}
+.two3 {
+	width: 240px;
+	height: 160px;
+	background: url( "../images/003.jpg") no-repeat;
+	margin-top: 5px;
+}
+.two4 {
+	width: 240px;
+	height: 330px;
+}
+.two {
+	width: 870px;
+	height: 340px;
+}
+.the1 {
+	font-family: "微软雅黑";
+	font-size: 8px;
+	font-weight: 500;
+	margin-bottom: 30px;
+	color: #4e4e50;
+}
+.the2 {
+	font-size: 18px;
+}
+.three1, .three2, .three3, .three4, .four1, .four2, .four3, .four4, .five1, .five2, .five3, .five4, .six1, .six2, .six3, .six4, .seven1, .seven2, .seven3, .seven4, .eight1, .eight2, .eight3, .eight4 {
+	width: 210px;
+	height: 210px;
+	display: inline-block;
+}
+.three2, .three3, .three4, .four2, .four3, .four4, .five2, .five3, .five4, .six2, .six3, .six4, .seven2, .seven3, .seven4, .eight2, .eight3, .eight4 {
+	margin-left: 10px;
+}
+.three1 {
+	background: url( "../images/1.jpg");
+}
+.three2 {
+	background: url( "../images/2.jpg");
+}
+.three3 {
+	background: url( "../images/3.jpg");
+}
+.three4 {
+	background: url( "../images/4.jpg") no-repeat;
+}
+.three {
+	width: 890px;
+	height: 220px;
+	display: inline-block;
+}
+.the3 {
+	line-height: 10px;
+	margin-bottom: 20px;
+}
+.o1 {
+	padding-left: 90px;
+	font-size: 16px;
+}
+.o2 {
+	padding-left: 170px;
+	font-size: 16px;
+}
+.four, .five, .six, .seven, .eight {
+	width: 890px;
+	height: 220px;
+	display: inline-block;
+	margin-top: 10px;
+}
+.four1 {
+	background: url( "../images/5.jpg");
+}
+.four2 {
+	background: url( "../images/6.jpg") no-repeat;
+}
+.four3 {
+	background: url( "../images/7.jpg");
+}
+.four4 {
+	background: url( "../images/8.jpg") no-repeat;
+}
+.five1 {
+	background: url( "../images/9.jpg");
+}
+.five2 {
+	background: url( "../images/10.jpg") no-repeat;
+}
+.five3 {
+	background: url( "../images/11.jpg");
+}
+.five4 {
+	background: url( "../images/12.jpg") no-repeat;
+}
+.six1 {
+	background: url( "../images/13.jpg");
+}
+.six2 {
+	background: url( "../images/14.jpg") no-repeat;
+}
+.six3 {
+	background: url( "../images/15.jpg");
+}
+.six4 {
+	background: url( "../images/16.jpg") no-repeat;
+}
+.seven1 {
+	background: url( "../images/17.jpg");
+}
+.seven2 {
+	background: url( "../images/18.jpg") no-repeat;
+}
+.seven3 {
+	background: url( "../images/19.jpg");
+}
+.seven4 {
+	background: url( "../images/20.jpg") no-repeat;
+}
+.eight1 {
+	background: url( "../images/21.jpg");
+}
+.eight2 {
+	background: url( "../images/22.jpg") no-repeat;
+}
+.eight3 {
+	background: url( "../images/23.jpg");
+}
+.eight4 {
+	background: url( "../images/24.jpg") no-repeat;
+}
+.nine0 {
+	float: left;
+}
+.nine00 {
+	float: left;
+}
+.nine1 {
+	width: 580px;
+	padding: 10px 0px 0px 10px;
+	border: solid 2px #efeeef;
+}
+.nine2 {
+	width: 580px;
+}
+.nine3, .nine31, .nine32, .nine41, .nine51 {
+	display: inline-block;
+}
+.nine3 {
+	width: 560px;
+	height: 180px;
+}
+.nine31 {
+	background: url("../images/25.jpg") no-repeat;
+	height: 180px;
+	width: 180px;
+}
+.nine32 {
+	width: 360px;
+	height: 160px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	position: relative;
+	top: -30px;
+}
+.nine33 {
+	font-size: 14px;
+}
+.nine34 {
+	width: 75px;
+	height: 30px;
+	border: solid 2px #efeeef;
+}
+.nine35 {
+	text-align: center;
+	position: relative;
+	top: -10px;
+}
+.nine4 {
+	height: 190px;
+}
+.nine41 {
+	background: url("../images/26.jpg") no-repeat;
+	height: 180px;
+	width: 180px;
+}
+.nine51 {
+	background: url("../images/27.jpg") no-repeat;
+	height: 180px;
+	width: 180px;
+}
+.nine6 {
+	width: 245px;
+	margin-left: 22px;
+	border-bottom: 2px solid #efeeef;
+	height: 85px;
+	margin-bottom: 30px;
+	margin-right: 0px;
+}
+.nine60 {
+	width: 50px;
+	height: 70px;
+	float: left;
+}
+.nine61, .nine71, .nine81, .nine91, .nine101 {
+	width: 50px;
+	height: 46px;
+	position: relative;
+	top: 10px;
+	left: 5px;
+}
+.nine601 {
+	width: 245px;
+	margin-left: 22px;
+	height: 85px;
+	margin-bottom: 30px;
+	margin-right: 0px;
+}
+.nine61 {
+	background: url("../images/07.jpg") no-repeat;
+}
+.nine62 {
+	font-size: 14px;
+	position: relative;
+	top: -5px;
+	left: 18px;
+}
+.nine63 {
+	width: 180px;
+	font-size: 10px;
+	float: left;
+	margin-left: 15px;
+}
+.nine64 {
+	width: 260px;
+	height: 620px;
+	margin-left: 5px;
+	margin-right: 0px;
+	margin-top: 80px;
+	border-top: 2px solid #efeeef;
+	border-bottom: 2px solid #efeeef;
+	border-left: 2px solid #efeeef;
+}
+.nine71 {
+	background: url("../images/08.jpg") no-repeat;
+}
+.nine81 {
+	background: url("../images/09.jpg") no-repeat;
+}
+.nine91 {
+	background: url("../images/010.jpg") no-repeat;
+}
+.nine101 {
+	background: url("../images/011.jpg") no-repeat;
+}
+.ten {
+	width: 870px;
+	height: 50px;
+	margin-top: 30px;
+}
+.ten1 {
+	width: 180px;
+	height: 34px;
+	left: -10px;
+}
+.ten2 {
+	background: url("../images/03.jpg") no-repeat;
+	width: 33px;
+	height: 34px;
+}
+.ten4 {
+	width: 170px;
+	font-size: 8px;
+	top: -40px;
+	left: 40px;
+}
+.ten5 {
+	font-size: 12px;
+}
+.ten6, .ten7, .ten8 {
+	width: 33px;
+	height: 34px;
+}
+.ten6 {
+	background: url("../images/04.jpg") no-repeat;
+}
+.ten7 {
+	background: url("../images/05.jpg") no-repeat;
+}
+.ten8 {
+	background: url("../images/06.jpg") no-repeat;
+}
+.ten9 {
+	top: -35px;
+	left: 240px;
+}
+.ten10 {
+	top: -70px;
+	left: 480px;
+}
+.ten11 {
+	top: -105px;
+	left: 720px;
+}
+.ten1, .ten4, .ten9, .ten10, .ten11 {
+	position: relative;
+}
+.eleven {
+	height: 40px;
+	text-align: center;
+	border-bottom: 2px solid;
+	margin-top: 40px;
+}
+.eleven1 {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.twelve {
+	width: 870px;
+}
+.twelve1 {
+	width: 210px;
+	height: 120px;
+	font-size: 10px;
+	margin-top: 20px;
+	float: left;
+}
+.twelve11 {
+	background: url("../images/000.jpg") no-repeat;
+	width: 100px;
+	height: 25px;
+}
+.twelve2 {
+	width: 120px;
+	height: 120px;
+	float: left;
+	font-size: 14px;
+	margin-top: 5px;
+	margin-left: 30px;
+}
+.twelve3 {
+	font-size: 14px;
+	width: 130px;
+	height: 120px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 30px;
+}
+.twelve31 {
+	background: url("../images/012.jpg") no-repeat;
+	width: 72px;
+	height: 72px;
+	margin: 0 29px;
+}
+.twelve4 {
+	font-size: 14px;
+	width: 90px;
+	height: 120px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 50px;
+	text-align: center;
+}
+.twelve5 {
+	font-size: 14px;
+	width: 150px;
+	height: 120px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 50px;
+}
+.thirteen {
+	font-size: 14px;
+	text-align: center;
+	margin-top: 40px;
+}

@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0 auto 0;
+}
+.one {
+	margin: 0 auto 0;
+	width: 980px;
+}
+.two{
+	font-family: "微软雅黑";
+	font-weight: bolder;
+	line-height: 35px;
+}
+.three{
+	color:#781d2c;
+	font-size: 50px;
+	font-weight: 500;
+	font-family: "隶书";	
+}
+.four{
+	color:#781d2c;
+	font-size: 20px;
+	font-weight: 500;
+	font-family: "隶书";
+}
+.five{
+	text-align:center;
+}
+.six{
+	font-family: "隶书";
+	font-size: 20px;
+	text-indent: 2em;
+}
+.senve{
+	color:#781d2c;
+	font-size: 30px;
+	font-style: italic;
+}
+.eight{
+	color:#781d2c;
+}
+.nine{
+	color:#781d2c;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 25px;
+}
+.ten{
+	background-color: yellow;
+}
+.one1{
+	height: 100px;
+	background-color: #525252;
+	margin-top: -20px;
+	text-align: center;
+}
+.two2{
+	color: white;
+	padding: 50px;
+}

@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>美丽大北海</title>
+	<link href="../css/shouye.css" type="text/css" rel="stylesheet" />
+	<script src="../js/shouye.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<div class="bd">
+	<!--header-->
+		<div class="header">
+		<div class="header1"></div>
+		<div class="header2"></div>
+			<div class="header3">
+			<ul>
+				<p class="header4">
+					<script>
+						var username;
+						var pwd;
+						
+					function regist(){		
+		/* eslint-disable */
+	 var username=prompt("请输入用户名：");
+           var pwd=prompt("请输入密码：");
+           while(username==" "||pwd==" "){
+             alert("请输入用户名或密码：");
+               username=prompt("请输入用户名：");
+               pwd=prompt("请输入密码：");            
+           }
+           alert("注册成功！");
+	}
+	
+	var username1;
+	var pwd1;
+	function login(){
+	 var username1=prompt("请输入用户名：");
+           var pwd1=prompt("请输入密码：");
+           if(username==username1&&pwd==pwd1){
+                      alert("登录成功！");
+           }
+		else{
+           alert("用户名或密码错误！");
+               username1=prompt("请输入用户名：");
+               pwd1=prompt("请输入密码：");   
+		}
+	}
+					</script>
+					<from>
+					<button onClick="regist()">注册</button>
+						<a href="bingo.html">|</a>
+						<button onClick="login()">登录</button>
+					</from>
+				</p>
+				<p class="header5">
+					<a href="shouye.html">首页</a>
+				<a href="beihaigaikuang.html">北海概况</a>
+					<a href="food.html">美食</a>
+					<a href="hotel.html">酒店</a>
+					<a href="sence.html">景点</a>
+					<a href="call.html">联系我们</a>
+					
+				</p>
+				</ul>
+			</div>
+		</div>
+		
+		<!--banner-->
+		<div class="banner">
+		<ul class="banner_pic" id="banner_pic">
+			<li class="current"><img class="one" src="../images/shouye/da01.jpg" alt=""/></li>
+			<li class="pic"><img class="one" src="../images/shouye/da02.jpg"  alt=""/></li>
+			<li class="pic"><img class="one" src="../images/shouye/da03.jpg"  alt=""/></li>
+			<li class="pic"><img class="one" src="../images/shouye/da04.jpg"  alt=""/></li>
+			</ul>
+		<ol id="button">
+			<li class="current"></li>
+			<li class="but"></li>
+			<li class="but"></li>
+			<li class="but"></li>
+			</ol>
+		</div>
+		
+		<!--content-->
+		<div class="content">
+		<p class="content1">美食</p>
+			<div class="imgbox" id="imgbox">
+					<span>
+						<a href="#"><img src="../images/shouye/meishi01.jpg" alt="" title="猪脚粉"/></a>
+						<a href="#"><img src="../images/shouye/meishi02.jpg" alt="" title="椒盐濑尿虾"/></a>
+						<a href="#"><img src="../images/shouye/meishi03.jpg" alt="" title="牛腩粉"/></a>
+						<a href="#"><img src="../images/shouye/meishi04.jpg" alt="" title="蒜茸银丝扇贝"/></a>
+						<a href="#"><img src="../images/shouye/meishi05.jpg" alt="" title="鱿鱼"/></a>
+						<a href="#"><img src="../images/shouye/meishi06.jpg" alt="" title="白灼中虾"/></a>
+						<a href="#"><img src="../images/shouye/meishi07.jpg" alt="" title="罗卜糕"/></a>
+					</span>
+				</div>
+			<p class="content2">舌尖上的美味，北海7道特色美食，你吃过几种？<br/><span>椒盐濑尿虾、蒜茸银丝扇贝、猪脚粉、鱿鱼、白灼中虾、牛腩粉、罗卜糕</span></p>
+			
+			<p class="content1">景点</p>
+			<div class="imgbox1" id="imgbox1">
+					<span>
+						<a href="#"><img src="../images/shouye/jingdian01.jpg" alt="" title="侨港风情街"/></a>
+						<a href="#"><img src="../images/shouye/jingdian02.jpg" alt="" title="海底世界"/></a>
+						<a href="#"><img src="../images/shouye/jingdian03.jpg" alt="" title="金海湾红树林生态旅游区"/></a>
+						<a href="#"><img src="../images/shouye/jingdian04.jpg" alt="" title="百年老街"/></a>
+						<a href="#"><img src="../images/shouye/jingdian05.jpg" alt="" title="冠头岭"/></a>
+						<a href="#"><img src="../images/shouye/jingdian06.jpg" alt="" title="海洋之窗"/></a>
+						<a href="#"><img src="../images/shouye/jingdian07.jpg" alt="" title="北部湾广场"/></a>
+					</span>
+				</div>
+			<p class="content2">浪漫海滨,三面环海,风光旖旎,气候宜人,阳光、沙滩、海水是北海送给每位来客的厚礼。来一起看看北海有哪些好玩的景点吧!<br/><span>金海湾红树林生态旅游区、海洋之窗、海底世界、百年老街、冠头岭、北部湾广场、侨港风情街</span></p>
+			
+			<p class="content1">优选视频</p>
+			<div class="img1">
+    <video width="220" height="150" muted="muted" autoplay="autoplay" loop="loop" >
+        <source src="../video/video01.mp4" type="video/mp4">
+		</video>
+		
+	 <video width="220" height="150" muted="muted" autoplay="autoplay" loop="loop" >
+        <source src="../video/video02.mp4" type="video/mp4">
+		</video>
+		
+		 <video width="220" height="150" muted="muted" autoplay="autoplay" loop="loop" >
+        <source src="../video/video03.mp4" type="video/mp4">
+		</video>
+		
+		 <video width="220" height="150" muted="muted" autoplay="autoplay" loop="loop" >
+        <source src="../video/video04.mp4" type="video/mp4">
+		</video>
+		
+		 <video width="220" height="150" muted="muted" autoplay="autoplay" loop="loop" >
+        <source src="../video/video05.mp4" type="video/mp4">
+		</video>
+    </div>
+			<p class="content1" id="bd">美丽大北海欢迎您！</p>
+			
+		<script>
+		function show(){
+	var huan=document.getElementById("bd");
+	alert(huan.innerHTML);
+}
+	show();
+		</script>
+			
+			
+		</div>
+		
+		<!--foot-->
+		<div class="foot">
+		<p><br/>@2020-Sxy-保留所有权利 <br/>广西壮族自治区北海市桂林电子科技大学北海校区</p>
+		</div>
+	</div>
+</body>
+</html>

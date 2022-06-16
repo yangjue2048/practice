@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0 auto;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #404042;
+	list-style-type: none;
+}
+.zero{
+	width: 980px;
+}
+.header{
+	height: 85px;
+}
+.header li,.content9 ul,.nav li,.banner li,.content2 li{
+	float: left;
+}
+.one{
+	background: url("../image/1.png") no-repeat;
+	width: 74px;
+	height: 67px;
+	margin-top: 10px;
+	margin-left: 130px;
+}
+.one1{
+	color: #d84c4c;
+	font-family: Rawelay;
+}
+.one2{
+	margin-top: 25px;
+	margin-left: 5px;
+	line-height: 25px;
+}
+.one3{
+	margin-top: 30px;
+	margin-left: 450px;
+}
+.one3:hover{color:#A41F21;}
+.nav{
+	height: 30px;
+	background: #404042;
+}
+.nav li{
+	color: #FFFFFF;
+	line-height: 30px;
+}
+.nav1{
+	background: #da5454;
+	width: 60px;
+	margin-left: 130px;
+	padding-left: 30px;
+}
+.nav2{
+	margin-left: 20px;
+	width: 70px;
+	padding-left: 20px;
+}
+.nav2:hover{background:#da5454; }
+.banner1{
+	background: url("../image/2.png") no-repeat;
+	width: 980px;
+	height: 437px;
+}
+.banner2,.banner3,.banner4,.banner5{
+	padding-left: 50px; 
+	padding-top: 18px;
+	height: 50px;
+	width: 127.5px;
+	border-bottom: 2px solid #e8e8e8;
+	margin-bottom: 20px;
+}
+.banner2{
+	background: url("../image/3.png") no-repeat left center;
+	margin-left: 90px;
+	border-left: 2px solid #e8e8e8;
+	border-right: 1px solid #e8e8e8;
+}
+.banner3,.banner4{
+	border-left: 1px solid #e8e8e8;
+	border-right: 1px solid #e8e8e8;
+}
+.banner3{
+	background: url("../image/4.png") no-repeat left center;
+}
+.banner4{
+	background: url("../image/5.png") no-repeat left center;
+}
+.banner5{
+	background: url("../image/6.png") no-repeat left center;
+	border-left: 1px solid #e8e8e8;
+	border-right: 2px solid #e8e8e8;
+}
+span{
+	color: #d9d1cd;
+	font-size: 12px;
+}
+.content{
+	width: 720px;
+	margin-left: 130px;
+}
+
+.content1{
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #e8e8e8;
+}
+.content2{
+	margin-top: 10px;
+	width: 720px;
+}
+.content3,.content4,.content5,.content6,.content7,.content8{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.content3{
+	background: url("../image/7.png") no-repeat;
+	height: 166px;
+	width: 343px;
+}
+.content4{
+	background: url("../image/8.png") no-repeat;
+	height: 166px;
+	width: 165px;
+}
+.content5{
+	background: url("../image/9.png") no-repeat;
+	height: 166px;
+	width: 167px;
+}
+.content6{
+	background: url("../image/10.png") no-repeat;
+	height: 165px;
+	width: 166px;
+}
+.content7{
+	background: url("../image/11.png") no-repeat;
+	height: 165px;
+	width: 343px;
+}
+.content8{
+	background: url("../image/12.png") no-repeat;
+	height: 165px;
+	width: 167px;
+}
+.content6,.content7,.content8{
+	margin-bottom: 20px;
+}
+.content20{
+	font-weight: bold;
+}
+.content10,.content101,.content102{
+	margin-top: 10px;
+	height: 205px;
+	border: 2px solid #e8e8e8;
+	margin-bottom: 30px;
+}
+.content10,.content101{
+	width: 205px;
+	padding: 8px;
+	margin-right:5px; 
+}
+.content102{
+	width: 240px;
+	padding: 8px;
+}
+.content11,.content12,.content13,.content14,.content15,.content16,.content17,.content18,.content19{
+	margin-top: 10px;
+	padding-left: 50px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #e8e8e8;
+}
+.content11{
+	background:url("../image/13.png") no-repeat left center;
+}
+.content12{
+	background:url("../image/14.png") no-repeat left center;
+}
+.content13{
+	background:url("../image/15.png") no-repeat left center;
+}
+.content14{
+	background:url("../image/16.png") no-repeat left center;
+}
+.content15{
+	background:url("../image/17.png") no-repeat left center;
+}
+.content16{
+	background:url("../image/18.png") no-repeat left center;
+}
+.content17{
+	background:url("../image/19.png") no-repeat left center;
+}
+.content18{
+	background:url("../image/20.png") no-repeat left center;
+}
+.content19{
+	background:url("../image/21.png") no-repeat left center;
+}
+.footer{
+	height: 80px;
+	width: 980px;
+	background: #000000;
+	clear: both;
+}
+.footer p{
+	color:#b6b8b6;
+	line-height: 30px;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 12px;
+}
